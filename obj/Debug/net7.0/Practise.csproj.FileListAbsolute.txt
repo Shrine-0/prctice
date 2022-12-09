@@ -1,0 +1,15 @@
+/Users/nischal/Documents/Practise/bin/Debug/net7.0/Practise
+/Users/nischal/Documents/Practise/bin/Debug/net7.0/Practise.deps.json
+/Users/nischal/Documents/Practise/bin/Debug/net7.0/Practise.runtimeconfig.json
+/Users/nischal/Documents/Practise/bin/Debug/net7.0/Practise.dll
+/Users/nischal/Documents/Practise/bin/Debug/net7.0/Practise.pdb
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/Practise.csproj.AssemblyReference.cache
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/Practise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/Practise.AssemblyInfoInputs.cache
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/Practise.AssemblyInfo.cs
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/Practise.csproj.CoreCompileInputs.cache
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/Practise.dll
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/refint/Practise.dll
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/Practise.pdb
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/Practise.genruntimeconfig.cache
+/Users/nischal/Documents/Practise/obj/Debug/net7.0/ref/Practise.dll
